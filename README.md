@@ -20,6 +20,14 @@ python3 hello_world.py
 ```
 
 - **Step 3**
+Create a new file called `indent.py` using notepad or any other text editor.
+Type the following into this new file:
+```
+
+```
+
+
+- **Step 4**
 Create a new file called `get_ip.py` using notepad or any other text editor.
 Type the following into this new file:
 ```
