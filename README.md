@@ -20,14 +20,6 @@ python3 hello_world.py
 ```
 
 - **Step 3**
-Create a new file called `indent.py` using notepad or any other text editor.
-Type the following into this new file:
-```
-
-```
-
-
-- **Step 4**
 Create a new file called `get_ip.py` using notepad or any other text editor.
 Type the following into this new file:
 ```
@@ -44,3 +36,21 @@ Execute the file:
 ```
 python3 get_ip.py
 ```
+
+---
+
+## network automation day 2
+
+- **Step 1**: Introduction to interacting with NGFW
+  - We will use Python to authenticate to Palo Alto Networks NGFW, retrieve an API key, and execute a simple command.
+
+- **Step 2**: Install Required Packages
+  - Use `pip` to install the required Python packages by running:
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+Continue to follow along in the class setting for additional instructions.
+
+---
