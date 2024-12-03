@@ -9,7 +9,7 @@ import os
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Placeholder for API command - students should paste the command here
-api_command = "/api/?type=op&cmd=<show><system><info></info></system></show>"
+api_command = ""
 
 # Base64-encoded version of the correct API command for validation - just used in class only
 expected_api_command_hash = "L2FwaS8/dHlwZT1vcCZjbWQ9PHNob3c+PHN5c3RlbT48aW5mbz48L2luZm8+PC9zeXN0ZW0+PC9zaG93Pg=="
