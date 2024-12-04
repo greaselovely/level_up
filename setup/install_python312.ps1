@@ -1,3 +1,4 @@
+# Start Powershell using this to run the script:  powershell -ExecutionPolicy bypass
 $pythonVersion = "3.12.8"
 $pythonInstaller = "python-$pythonVersion-amd64.exe"
 $downloadUrl = "https://www.python.org/ftp/python/$pythonVersion/$pythonInstaller"
